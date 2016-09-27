@@ -10,6 +10,7 @@ namespace MyConsoleApp
     {
         static void Main(string[] args)
         {
+            //pretend I am adding cool code
             Console.WriteLine("Hello Source");
             Console.ReadKey();
         }
